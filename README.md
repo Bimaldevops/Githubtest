@@ -1,3 +1,3 @@
 # Githubtest
 
-This is Bimal Test via Github
+This is test via VScode
